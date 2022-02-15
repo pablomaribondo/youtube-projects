@@ -14,3 +14,4 @@
 - https://github.com/pablomaribondo/react-multilang-site-redux
 - https://github.com/pablomaribondo/react-tags
 - https://github.com/pablomaribondo/react-table
+- https://github.com/pablomaribondo/react-modal
