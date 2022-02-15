@@ -15,3 +15,4 @@
 - https://github.com/pablomaribondo/react-tags
 - https://github.com/pablomaribondo/react-table
 - https://github.com/pablomaribondo/react-modal
+- https://github.com/pablomaribondo/react-accordion
