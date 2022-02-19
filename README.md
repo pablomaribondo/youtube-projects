@@ -19,3 +19,4 @@
 - https://github.com/pablomaribondo/react-multilang-site-context-api
 - https://github.com/pablomaribondo/react-calendar
 - https://github.com/pablomaribondo/react-form-validation
+- https://github.com/pablomaribondo/react-pagination
