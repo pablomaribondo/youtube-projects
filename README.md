@@ -205,7 +205,7 @@
 
 ### [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-- [FastAPI Course](https://github.com/pablomaribondo/fastapi-course) - IN PROGRESS
+- [FastAPI Course](https://github.com/pablomaribondo/fastapi-course)
 - [Markdown Previewer](https://github.com/pablomaribondo/markdown-previewer-vue)
 
   <kbd>
