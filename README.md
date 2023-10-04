@@ -144,7 +144,7 @@
 
 ### [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
 
-- [Flappy Bird](https://github.com/pablomaribondo/flappy-bird) - IN PROGRESS
+- [Flappy Bird](https://github.com/pablomaribondo/flappy-bird)
 
   <kbd>
     <img src=".github/flappy-bird.png" width="300" />
