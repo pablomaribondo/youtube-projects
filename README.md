@@ -68,7 +68,12 @@
     <img src=".github/react-calendar.png" width="300" />
   </kbd>
 
-- [Pagination](https://github.com/pablomaribondo/react-pagination) - IN PROGRESS
+- [Pagination](https://github.com/pablomaribondo/react-pagination)
+
+  <kbd>
+    <img src=".github/react-pagination.png" width="500" />
+  </kbd>
+
 - [Weather App](https://github.com/pablomaribondo/weather-app)
 
   <kbd>
