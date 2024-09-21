@@ -9,6 +9,11 @@
 <br />
 <br />
 
+
+### [Daniele Leão](https://www.youtube.com/c/DanieleLe%C3%A3o)
+
+- [Fastify + Vitest + Supertest](https://github.com/pablomaribondo/fastify-vitest-supertest)
+
 ### [Shawn C](https://www.youtube.com/c/ShawnChenTech)
 
 - [Shopping Cart](https://github.com/pablomaribondo/shopping-cart)
