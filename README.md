@@ -177,6 +177,12 @@
     <img src=".github/game-guide.png" width="700" />
   </kbd>
 
+- [Asteroids](https://github.com/pablomaribondo/asteroids)
+
+  <kbd>
+    <img src=".github/asteroids.png" width="700" />
+  </kbd>
+
 ### [developer.school](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
 
 - [Firebase CRUD](https://github.com/pablomaribondo/firebase-crud-vue)
